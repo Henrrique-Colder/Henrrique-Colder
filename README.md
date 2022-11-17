@@ -1,10 +1,6 @@
-## Olá eu sou  o Henrrique Silva 👋
+## Olá 👋 Eu Sou  O Henrrique Silva Sou Desenvolvedor Web E Estudo Programação!!!
 
 
-
-- 💖 Atualmente trabalho como gestor de trafego.
-- 🌱 Estou iniciando agora com a Programação.
-- 👨‍🎓 Estudo javascript 
 
 
 <div align="center">
